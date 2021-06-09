@@ -21,7 +21,7 @@ modern thinking about the dopamine system as it relates to reinforcement
 learning, and finally explore the ways in which dopamine studies and
 computational research have influenced one another.
 
-# Overview of reinforcement learning history
+# Overview of Reinforcement Learning History
 
 Much of the current understanding of how reinforcement learning works
 stems from the ideas first formalized in Rescorla and Wagner’s 1972
@@ -86,7 +86,7 @@ thinking is that this possible decrease in accuracy is worth it.
 
   
 
-## Computational methods overview
+## Computational Methods Overview
 
 
 One of the simplest types of computational reinforcement learning is
